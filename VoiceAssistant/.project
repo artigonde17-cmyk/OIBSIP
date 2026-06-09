@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-<<<<<<< HEAD
-	<name>WeatherApp</name>
-=======
-	<name>ChatApp</name>
->>>>>>> 2c368847335130cb5241b5c8a667bfbf2e64eb3b
+	<name>VoiceAssistant</name>
 	<comment></comment>
 	<projects>
 	</projects>
